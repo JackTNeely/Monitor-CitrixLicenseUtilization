@@ -1,7 +1,7 @@
+
 # Monitor-CitrixLicenseUtilization
 PowerShell script for monitoring Citrix license utilization and sending email alerts when the usage exceeds a specified threshold.
 
-```markdown
 # Citrix License Usage Monitoring Script
 
 This PowerShell script retrieves license usage information from a Citrix License Server using WMI and sends email alerts if license usage exceeds a specified threshold.
@@ -130,5 +130,4 @@ You can also modify the task settings by right-clicking on the task in the "Task
 
 ## License
 
-This script is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-```
+This script is licensed under the MIT License. See the [LICENSE](https://github.com/JackTNeely/Monitor-CitrixLicenseUtilization/blob/main/LICENSE) file for more information.
